@@ -51,7 +51,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [here](https://your-solution-url.com)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/ip-address-tracker-created-using-react-and-styledcomponents-XFk7mLyLGw)
 - Live Site URL: [here](https://zun-liang.github.io/ip-address-tracker/)
 
 ## My process
