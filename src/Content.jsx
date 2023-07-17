@@ -161,7 +161,7 @@ const Content = ({ipInput, handleChange, handleClick, messageDisplay, ip, locati
               id="ip-address"
               value={ipInput}
               onChange={handleChange}/>
-            <Button onClick={handleClick}></Button>
+            <Button onClick={handleClick} />
             <Message $messageDisplay={messageDisplay}>Please enter a valid IP address!</Message>
           </InputContainer>
           <OutputsContainer>
