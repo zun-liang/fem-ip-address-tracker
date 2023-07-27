@@ -247,7 +247,6 @@ Error generating stack: `+l.message+`
   position: absolute;
   top: 7rem;
   z-index: 800;
-  box-shadow: 0 0 10px var(--dark-gray);
   @media(min-width: 600px) {
     max-height: 45vh;
     gap: 1rem;
