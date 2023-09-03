@@ -1,6 +1,6 @@
 # Frontend Mentor - IP address tracker solution
 
-This is a solution to the [IP address tracker challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [IP address tracker challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -15,7 +15,6 @@ This is a solution to the [IP address tracker challenge on Frontend Mentor](http
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-
 ## Overview
 
 ### The challenge
@@ -28,11 +27,12 @@ Users should be able to:
 - Search for any IP addresses or domains and see the key information and location
 
 ### Screenshot
+
 <table>
     <tr>
         <td>
             <img 
-                src="./src/assets/screenshots/screenshot-mobile.png"
+                src="./public/screenshots/screenshot-mobile.png"
                 alt="mobile preview"
                 width="200px" />
         </td>
@@ -40,14 +40,12 @@ Users should be able to:
     <tr>
         <td>
             <img 
-                src="./src/assets/screenshots/screenshot-desktop.png"
+                src="./public/screenshots/screenshot-desktop.png"
                 alt="desktop preview"
                 width="600px" />
         </td>
     </tr>
 </table>
-
-
 
 ### Links
 
@@ -65,13 +63,11 @@ Users should be able to:
 - [React](https://reactjs.org/) - JS library
 - [Styled Components](https://styled-components.com/) - For styles
 
-
 ### What I learned
 
 - How to setup and use Leaflet in React
 - How to use useEffect when calling APIs
 - How to set up an easy loading / error screen
-
 
 ### Continued development
 
@@ -81,7 +77,6 @@ Users should be able to:
 - render props
 - unit testing
 - styled-components
-
 
 ### Useful resources
 
@@ -93,9 +88,7 @@ Users should be able to:
 - [React Leaflet styled-components](https://codesandbox.io/s/react-leaflet-styled-components-j436d)
 - [How to Fetch Data in React: Cheat Sheet + Examples](https://www.freecodecamp.org/news/fetch-data-react/)
 
-
 ## Author
 
 - Website - [Zun Liang](https://zun-liang.github.io/)
 - Frontend Mentor - [@zun-liang](https://www.frontendmentor.io/profile/zun-liang)
-
