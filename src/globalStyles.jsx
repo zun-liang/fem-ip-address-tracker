@@ -1,6 +1,6 @@
-import { createGlobalStyle } from 'styled-components'
+import { createGlobalStyle } from "styled-components";
 
-const GlobalStyles = createGlobalStyle`
+const GlobalStyles = createGlobalStyle` 
     * {
         box-sizing: border-box;
         margin: 0;
@@ -16,7 +16,7 @@ const GlobalStyles = createGlobalStyle`
         width: 100%;
         height: 100%;
         min-height: 100vh;
-        font-size: 18px;
+        font-size: 18px; 
     }
     
     body {
@@ -27,5 +27,5 @@ const GlobalStyles = createGlobalStyle`
         color: var(--dark-gray);
         font-weight: 400;
     }
-`
-export default GlobalStyles
+`;
+export default GlobalStyles;
