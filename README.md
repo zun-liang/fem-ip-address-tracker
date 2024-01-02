@@ -50,7 +50,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [here](https://www.frontendmentor.io/solutions/ip-address-tracker-created-using-react-and-styledcomponents-XFk7mLyLGw)
-- Live Site URL: [here](https://zun-liang.github.io/ip-address-tracker/)
+- Live Site URL: [here](https://zun-liang.github.io/fem-ip-address-tracker/)
 
 ## My process
 
